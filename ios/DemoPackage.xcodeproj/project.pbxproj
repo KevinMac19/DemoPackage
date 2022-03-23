@@ -55,6 +55,8 @@
 				842FCED227EB043100F6EBA1 /* Calender */,
 				B3E7B5881CC2AC0600A0062D /* DemoPackage.h */,
 				B3E7B5891CC2AC0600A0062D /* DemoPackage.m */,
+				842FCED027EB040400F6EBA1 /* RCTCalendar.h */,
+				842FCED327EB15D400F6EBA1 /* RCTCalendar.m */,
 				134814211AA4EA7D00B7C361 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -62,8 +64,6 @@
 		842FCED227EB043100F6EBA1 /* Calender */ = {
 			isa = PBXGroup;
 			children = (
-				842FCED027EB040400F6EBA1 /* RCTCalendar.h */,
-				842FCED327EB15D400F6EBA1 /* RCTCalendar.m */,
 			);
 			path = Calender;
 			sourceTree = "<group>";

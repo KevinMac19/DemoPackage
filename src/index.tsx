@@ -20,3 +20,6 @@ const DemoPackage = NativeModules.DemoPackage
 export function multiply(a: number, b: number): Promise<number> {
   return DemoPackage.multiply(a, b);
 }
+export function createCalendarEvent(a: string, b: string): Promise<number> {
+  return NativeModules.DummyCalendarModule.createCalendarEvent(a, b);
+}

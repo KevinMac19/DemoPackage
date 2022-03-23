@@ -8,7 +8,7 @@
 
 //  RCTCalendarModule.h
 #import <React/RCTBridgeModule.h>
-@interface RCTCalendarModule : NSObject <RCTBridgeModule>
+@interface DummyCalendarModule : NSObject <RCTBridgeModule>
 
 @end
 
